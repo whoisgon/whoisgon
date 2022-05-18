@@ -1,18 +1,23 @@
 <h1 align="center"> ✨ Bienvenido, soy Gonzalo Turati ✨ </h1>
-<h3 align="center"> 🚧 W O R K I N G 🚧 </h3>
-In process...
 
-<!--
-**whoisgon/whoisgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Un poco sobre mi🤠
+Soy técnico en computación graduado en 2020 en la escuela <a HREF="http://www.tecnica35.com.ar">N°35</a>, en la cual me volvi un loco de la informatica y desde entonces no puedo alejarme de la programación y la técnologia, me encantan los animales, vivo rodeado de ellos.
+Me encanta la música, codear con música es de las cosas más bellas para hacer y me transporta a otro lugar. También adoro los videojuegos estilo shooter y compartirlos con mis amigos.
+Actualmente estoy trabajando como desarrollador RPA utilizando UiPath y estoy descubriendolo poco a poco mientras me fascino por la cantidad de cosas que no sabía que eran posibles con este tipo de herramientas.
+<hr>
 
-Here are some ideas to get you started:
+### Cursos completados 🎯💯
+- Desarrollo web (CoderHouse🚀)
+- JavaScript Algorithms and Data Structures (FreeCodeCamp🔥)
+- Curso de Introducción al Desarrollo Web 1/2 (Google Actívate🌎)
+- Curso de Introducción al Desarrollo Web 2/2 (Google Actívate🌎)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aspiraciones 🪐
+- Tener conocimiento en muchos lenguajes y ser capaz de adaptarme según requiera la situación
+- Ayudar gente con mis repositorios, brindandoles las respuestas y dando mi disponibilidad en caso de necesitar una explicación
+
+ <hr>
+
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-turati-224658219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-turati-224658219/" height="30" width="40" /></a>
+</p>
