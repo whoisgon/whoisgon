@@ -18,6 +18,7 @@ Actualmente estoy trabajando como desarrollador RPA utilizando UiPath y estoy de
 
  <hr>
  Mis DM están abiertos para cualquier consulta o inquietud que tengan conrespecto a la programación, espero ayudarlos y serles de utilidad, un saludo!
+ <br><br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gonzalo-turati-224658219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-turati-224658219/" height="30" width="40" /></a>
